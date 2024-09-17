@@ -1,5 +1,7 @@
 # Next.js Dashboard Project
 
+![alt text](https://github.com/renzoansa/nextjs-dashboard/blob/main/opengraph-image.png?raw=true)
+
 - **Framework & Styling**:  
   Built using Next.js 15 with Tailwind CSS for styling and Google Fonts via `next/font/google` for optimal performance by preloading fonts at build time.
 
